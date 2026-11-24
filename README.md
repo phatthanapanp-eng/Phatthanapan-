@@ -1,19 +1,19 @@
 # Phatthanapan-
 My personal GitHub profile README.
 <div align="center">
-  <h1>สวัสดีครับ 👋 ผมชื่อ พัฒนพันธ์ </h1>
-  <h3>[ตำแหน่ง เช่น นักพัฒนาซอฟต์แวร์ / นักศึกษาวิทยาการคอมพิวเตอร์]</h3>
-  <p>มุ่งมั่นพัฒนาแอปพลิเคชันที่มีประสิทธิภาพและแก้ไขปัญหาต่างๆ ด้วยการเขียนโค้ด</p>
+  <h1>Hi there, I'm Phatthanapan 👋</h1>
+  <h3>Web Developer | Computer Science & Systems Design Student</h3>
+  <p>Focused on designing and developing high-performance web applications, as well as troubleshooting and resolving system issues.</p>
 </div>
 
 ---
 
-### 👨‍💻 เกี่ยวกับผม
-- 🔭 **กำลังพัฒนาโปรเจกต์:** [This begining]
-- 🌱 **กำลังศึกษาเพิ่มเติม:** [เทคโนโลยีที่กำลังสนใจ เช่น React, Python, Docker]
-- 💬 **สอบถามหรือพูดคุยเรื่อง:** [เรื่องที่คุณถนัด เช่น การพัฒนาเว็บไซต์, JavaScript]
-- 📫 **ช่องทางการติดต่อ:** [phatthanapan.p@ku.th]
-
+### 👨‍💻 About Me
+- 🔭 **Currently working on:** Full-stack web applications and scalable system architecture projects
+- 🌱 **Currently learning:** Modern web frameworks, performance optimization, and cloud deployment
+- 💡 **Interests:** Web Development, Systems Design, UI/UX, and System Troubleshooting
+- 💬 **Ask me about:** Frontend/Backend development, database design, and debugging
+- 📫 **How to reach me:** phatthanapan.p@ku.th
 ---
 
 ### 🛠️ ทักษะและเครื่องมือที่ใช้
@@ -23,12 +23,17 @@ My personal GitHub profile README.
 
 ---
 
-### 📊 สถิติบน GitHub
+### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
+  <p>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=phatthanapanp-eng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatthanapanp-eng&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </p>
+  
+  <p>
+    <img height="175em" src="https://streak-stats.demolab.com?user=phatthanapanp-eng&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
 </div>
-
 ---
 
 ### 🤝 ช่องทางติดต่อ
